@@ -6,6 +6,8 @@ kheer
 pasta
 chicken frys
 
+beans 
+pizza
 
 
 
